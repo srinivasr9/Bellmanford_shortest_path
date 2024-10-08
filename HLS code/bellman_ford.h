@@ -5,7 +5,7 @@
 #include <ap_int.h>
 
 #define NODES 128
-#define EDGES 128
+#define EDGES 127
 #define BELLMAN_FORD_INFINITY 10000
 
 typedef ap_uint<8> node_index;
